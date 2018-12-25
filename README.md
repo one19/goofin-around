@@ -1,15 +1,13 @@
-# @BRIGHTSOLE/NEW-FRONT
+# @BRIGHTSOLE/GOOFIN-AROUND
 
 ### What is it?
 <details>
   <summary>
-    tl;dr: <TODO>: A frontend application
+    tl;dr: https://one19.github.io/goofin-around/
   </summary>
   <br />
 
-  A brand new frontend project!
-
-  It's ready for you to add some functionality, and gh-pages publish it!
+  I found a gif, and I liked it alot, but one thing bothered me. So I decided to make it in HTML/CSS.
 
 </details>
 <br/>
